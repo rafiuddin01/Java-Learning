@@ -2,7 +2,7 @@
 class Tester {
 	public static void main(String[] args) {
 		double discount;
-		String customerType = "Premium";
+		String customerType = "Regular";
 		switch (customerType) {
 		case "Regular":
 			discount = 5;

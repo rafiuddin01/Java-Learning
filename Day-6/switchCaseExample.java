@@ -1,6 +1,6 @@
 public class switchCaseExample {
 	public static void main(String[] args) {
-		String orderedFood = "Pizza";
+		String orderedFood = "Burger";
 		switch (orderedFood) {
 		case "Burger":
 			System.out.println("You have ordered Burger. Unit price: $10");
