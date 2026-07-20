@@ -1,4 +1,4 @@
-class Tester {
+class assignment2 {
 	public static void main(String[] args) {
 		// Implement your code here 
         double doorNo = 89;

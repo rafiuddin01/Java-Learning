@@ -1,4 +1,4 @@
-class Tester {
+class assignment1 {
     public static void main(String[] args) {
 
         int num1 = 3;

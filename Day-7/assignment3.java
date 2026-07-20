@@ -1,4 +1,4 @@
-class Tester {
+class assignment3 {
 	public static void main(String[] args) {
 		// Implement your code here \
 		int radius = 4;

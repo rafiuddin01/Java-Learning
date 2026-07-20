@@ -1,4 +1,4 @@
-class Tester {
+class typeconversion {
 	
 	public static void main(String srgs[]) {
 		int variableOne = 10;
