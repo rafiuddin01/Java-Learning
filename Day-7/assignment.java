@@ -1,4 +1,4 @@
-class Tester {
+class assignment {
 	public static void main(String[] args) {
 		// Implement your code here 
 		double F = 32;

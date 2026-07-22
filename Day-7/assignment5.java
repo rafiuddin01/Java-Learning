@@ -1,5 +1,5 @@
 
-class assignment4 {
+class assignment5 {
 	public static void main(String[] args) {
 		// Implement your code here 
 		int num1 = 5;
