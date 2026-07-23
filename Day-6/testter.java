@@ -1,5 +1,5 @@
 //Observe the output for different values of customerType
-class Tester {
+class testter{
 	public static void main(String[] args) {
 		double discount;
 		String customerType = "Regular";
